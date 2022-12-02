@@ -5,12 +5,12 @@
 <a href="https://www.linkedin.com/in/ryan-castro-ferreira">
     <img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-
 <hr />
-- 🔭 Eu sou Programador, no <a target="_blank" href="https://kronosys.com.br/global/">Kronosys (ERP)</a> - Trainner em Java;<br />
-- 🌱 Desenvolvimento WEB com JavaEE: Java, Mysql, JSF, JavaScript, CSS...<br />
-- 🌱 Aprendendo sobre Rust, Spring e Angular;<br />
-- 📫 Entre em contato por: <a href="mailto:ryancasf@gmail.com">ryancasf@gmail.com</a> ou pelo <a href="mailto:ryaninternet62@gmail.com">ryaninternet62@gmail.com</a>.<br />
+
+> - 🔭 Eu sou Programador, no <a target="_blank" href="https://kronosys.com.br/global/">Kronosys (ERP)</a> - Trainner em Java;<br />
+> - 🌱 Desenvolvimento WEB com JavaEE: Java, Mysql, JSF, JavaScript, CSS...<br />
+> - 🌱 Aprendendo sobre Rust, Spring e Angular;<br />
+> - 📫 Entre em contato por: <a href="mailto:ryancasf@gmail.com">ryancasf@gmail.com</a> ou pelo <a href="mailto:ryaninternet62@gmail.com">ryaninternet62@gmail.com</a>.<br />
 <hr />
 <a href="https://spring.io/">
   <img height= "35" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
