@@ -1,8 +1,8 @@
 # Olá, eu sou o Ryan Castro Ferreira!
-<a href="mailto:ryaninternet62@gmail.com">
+<a href="mailto:ryaninternet62@gmail.com" target="_blank">
    <img height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-<a href="https://www.linkedin.com/in/ryan-castro-ferreira">
+<a href="https://www.linkedin.com/in/ryan-castro-ferreira" >
     <img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <hr />
