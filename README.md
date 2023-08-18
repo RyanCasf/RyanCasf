@@ -6,7 +6,7 @@
     <img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-> - 🔭 Eu sou Programador, no <a target="_blank" href="https://kronosys.com.br/global/">Kronosys (ERP)</a> - Trainer em Java;<br />
+> - 🔭 Eu sou Programador, no <a target="_blank" href="https://kronosys.com.br/global/">Kronosys (ERP)</a> - Programador Júnior;<br />
 > - 🌱 Desenvolvimento WEB com JavaEE: Java, Mysql, JSF, JavaScript, CSS...<br />
 > - 🌱 Aprendendo sobre Rust, Spring e Angular;<br />
 > - 📫 Entre em contato por: <a href="mailto:ryancasf@gmail.com">ryancasf@gmail.com</a> ou pelo <a href="mailto:ryaninternet62@gmail.com">ryaninternet62@gmail.com</a>.<br />
