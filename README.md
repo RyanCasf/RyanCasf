@@ -17,7 +17,7 @@
 
 <div>
   <a href="https://github.com/RyanCasf">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RyanCasf&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=prs,stars" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RyanCasf&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=prs,stars,contribs" />
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanCasf&layout=compact&langs_count=8&theme=dark" />
   </a>
 </div>
