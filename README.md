@@ -8,7 +8,7 @@
 
 > - 🔭 Sou programador, no <a target="_blank" href="https://kronosys.com.br/global/">KronoSys (ERP)</a> - Programador Júnior;<br />
 > - 🌱 Desenvolvimento WEB com JavaEE: Java, MySQL, JSF, JavaScript, CSS...<br />
-> - 🌱 Aprendendo sobre C/C++, Spring e React;<br />
+> - 🌱 Aprendendo sobre Spring e React;<br />
 > - 📫 Entre em contato por: <a href="mailto:ryaninternet62@gmail.com">ryaninternet62@gmail.com</a>.<br />
 <hr />
 <a href="https://spring.io/">
